@@ -1,6 +1,6 @@
 {
   "name": "rn-tagscroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Component for making Tag Scroll",
   "main": "index.js",
   "directories": {
