@@ -25,5 +25,6 @@
   "bugs": {
     "url": "https://github.com/DeVoresyah/rn-tagscroll/issues"
   },
-  "homepage": "https://github.com/DeVoresyah/rn-tagscroll#readme"
+  "homepage": "https://github.com/DeVoresyah/rn-tagscroll#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
