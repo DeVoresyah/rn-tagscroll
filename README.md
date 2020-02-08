@@ -2,6 +2,10 @@
     <img src="https://i.imgur.com/P9hO3RL.gif" width="141" height="250">
 </p>
 
+## Installation
+```
+npm install --save rn-tagscroll
+```
 ## Usage
 ### Example
 ```jsx harmony
